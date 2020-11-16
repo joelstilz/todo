@@ -1,0 +1,4 @@
+C:\Users\joels\todo\obj\Debug\netcoreapp3.1\todo.csprojAssemblyReference.cache
+C:\Users\joels\todo\obj\Debug\netcoreapp3.1\todo.AssemblyInfoInputs.cache
+C:\Users\joels\todo\obj\Debug\netcoreapp3.1\todo.AssemblyInfo.cs
+C:\Users\joels\todo\obj\Debug\netcoreapp3.1\todo.csproj.CoreCompileInputs.cache
